@@ -1,11 +1,11 @@
 {
-	"name": "classtactics",
+	"name": "ClassTactics",
 	"version": "1.2.5",
 	"license": "MIT",
 	"author": {
 		"name": "Teddy Deleon",
-		"email": "ted@ai-codelabs.com",
-		"url": "https://ai-codelabs.com"
+		"email": "digitalionmedia@gmail.com",
+		"url": "https://digitalionmedia.com"
 	},
 	"repository": {
 		"type": "git",
