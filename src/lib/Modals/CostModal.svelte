@@ -81,7 +81,7 @@
 					message) to ChatGPT so that it can keep a state of the conversation.
 				</p> -->
 				<p class="!text-xs">
-					To save tokens, shorten your prompts or instruct ChatGPT to give shorter answers (e.g.
+					To save tokens, shorten your prompts or instruct AI to give shorter answers (e.g.
 					using Context & Stop Sequences). Lower the max_tokens parameter in the Chat Settings. You
 					can also create a new chat and try to omit noisy messages that are not relevant for
 					ChatGPT to maintain the state of the conversation.

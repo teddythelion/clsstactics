@@ -43,10 +43,10 @@
 	const meta = {
 		type: 'website',
 		title: 'ClassTactics',
-		url: 'https://aicompanion.vercel.app/',
+		url: 'https://classtactics.com/',
 		description:
 			'AI educational system for college work to assist in college work and school in general grades 1 through masters degree.',
-		image: '/logo-slickgpt.svg',
+		image: '/logo-class.svg',
 		imageAlt: 'ClassTactics'
 	};
 

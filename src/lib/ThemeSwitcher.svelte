@@ -25,7 +25,7 @@
 	}
 
 	const themeOptions: { name: string; value: SkeletonTheme }[] = [
-		{ name: 'Default', value: SkeletonTheme.Skeleton },
+		{ name: 'Default', value: SkeletonTheme.Hamlindigo },
 		{ name: 'Modern', value: SkeletonTheme.Modern },
 		{ name: 'Rocket', value: SkeletonTheme.Rocket },
 		{ name: 'Seafoam', value: SkeletonTheme.Seafoam },
@@ -67,7 +67,7 @@
 				await import('@skeletonlabs/skeleton/themes/theme-crimson.css');
 				break;
 			default:
-				await import('@skeletonlabs/skeleton/themes/theme-skeleton.css');
+				await import('@skeletonlabs/skeleton/themes/theme-hamlindigo.css');
 		}
 
 		// waiting for https://github.com/sveltejs/svelte/issues/3105

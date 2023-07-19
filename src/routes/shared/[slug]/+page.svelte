@@ -62,10 +62,10 @@
 	<svelte:fragment slot="additional-content-bottom">
 		<HintMessage title="Somebody shared this chat with you" variantClass="variant-ghost-warning">
 			<p>
-				If you want, you can continue this conversation with ChatGPT. To do so, use the <strong
+				If you want, you can continue this conversation with AI. To do so, use the <strong
 					>Import</strong
 				>
-				button in the toolbar. This will create a local instance of this chat just for you that you can
+				button in the toolbar. This will create a local instance of this chat just for you so that you can
 				edit and share as you wish.
 			</p>
 		</HintMessage>

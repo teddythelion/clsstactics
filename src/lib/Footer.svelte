@@ -5,7 +5,7 @@
 		<a
 			target="_blank"
 			rel="noreferrer"
-			href="https://github.com/ShipBit/slickgpt"
+			href="https://github.com/teddythelion"
 			class="unstyled w-5 h-5"
 		>
 			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
@@ -56,8 +56,8 @@
 		rel="noreferrer"
 	>
 		<span class="hidden md:inline">Created by</span>
-		<img src="/logo-slickgpt.svg" class="w-5 h-5" alt="ShipBit Logo" />
-		<span class="hidden md:inline">-</span>
-		<span class="font-bold md:text-shipbit font-barlow">AI Codelabs</span>
+		<img src="/logo-class.svg" class="w-64 h-20" alt="classtactics Logo" />
+		<span class="hidden md:inline"></span>
+		<span class="font-bold md:text-class font-barlow"></span>
 	</a>
 </div>

@@ -62,7 +62,7 @@
 			</button>
 
 			<span class="text-xs text-slate-400">
-				This suggestion will help in overall context and authenticity of the responses.
+				This suggestion will help in overall context and specificity of the responses.
 			</span>
 		{/if}
 
